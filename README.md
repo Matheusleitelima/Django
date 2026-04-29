@@ -1,5 +1,6 @@
 **
 -Instalação do Django
+
 No terminal execute:
 pip install django
 
